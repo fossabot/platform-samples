@@ -4,6 +4,8 @@ platform-samples
 This is a public place for all sample projects related to the GitHub Platform.
 
 ## Hierarchy
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fplatform-samples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fplatform-samples?ref=badge_shield)
+
 
 The directories are organized to correlate with guides found on developer.github.com.
 But here it is, broken down:
@@ -14,3 +16,7 @@ Make a pull request and we'll consider it.
 * _graphql_: here's a bunch of sample GraphQL queries that can be run against our [GitHub GraphQL API](https://developer.github.com/early-access/graphql).
 * _hooks_: wanna find out how to write a consumer for [our web hooks](https://developer.github.com/webhooks/)? The examples in this subdirectory show you how. We are open for more contributions via pull requests.
 * _pre-receive-hooks_: this one contains [pre-receive-hooks](https://help.github.com/enterprise/admin/guides/developer-workflow/about-pre-receive-hooks/) that can block commits on GitHub Enterprise that do not fit your requirements. Do you have more great examples? Create a pull request and we will check it out.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fplatform-samples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fplatform-samples?ref=badge_large)
